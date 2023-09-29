@@ -18,6 +18,7 @@ age_of_user = int(input("How old are you? "))
 present_year = (datetime.date.today()).year
 
 year_of_birth = present_year - age_of_user
+year_of_birth = 2023 - age_of_user
 
 year_to_100 = year_of_birth + 100
 
