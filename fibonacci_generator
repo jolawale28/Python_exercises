@@ -12,7 +12,7 @@ print(first_term)
 print(second_term)
 
 for i in range(count - 2):
-    next_term = first_term + second_term;
+    next_term = first_term + second_term
     print(next_term)
     first_term = second_term
     second_term = next_term
