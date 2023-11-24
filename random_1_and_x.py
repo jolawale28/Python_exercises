@@ -2,7 +2,7 @@
 # and 2, the second is between 1 and 3, the third is between 1 and 4, . . . , and the last is between
 # 1 and 51
 
-# 2023 Joseph Olawale Bamidele
+# 2023 Joseph Olawale Bamidele 
 
 import random
 
